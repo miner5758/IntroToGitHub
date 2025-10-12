@@ -1,0 +1,1 @@
+Hello, I'm  Paul Afriyie and this is my Github repository for my CSCI 1000 class's Github Integration Project at CU Boulder.
